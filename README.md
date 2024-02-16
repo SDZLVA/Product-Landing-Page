@@ -20,11 +20,11 @@ The goal of this project is to develop a product landing page adhering to the fo
 - Utilizing at least one media query for responsive design.
 - Utilizing CSS flexbox at least once for layout purposes.
 
-Preview
+## Preview
 Include a screenshot or GIF demonstrating the product landing page layout and functionality.
 
-Credits
-This project was completed as part of [insert course or program name].
+## Credits
+This project was completed as part of (https://www.freecodecamp.org/).
 
-License
+## License
 This project is licensed under the MIT License
